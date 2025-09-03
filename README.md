@@ -45,13 +45,12 @@ python backtest.py
 
 ## 📊 Example Output
 
-Running the backtest on **SPY (S&P 500 ETF)** produces:
+Running the backtest on **Nvidia Corporation (NVDA)** produces:
 
 - `equity.png` → Equity curve of strategy vs Buy & Hold  
 - `trades.db` → SQLite database log of trades  
 
 Example equity curve output:
-
 ![Equity Curve](equity.png)
 
 ---
