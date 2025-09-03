@@ -51,8 +51,7 @@ Running the backtest on **Nvidia Corporation (NVDA)** produces:
 - `trades.db` → SQLite database log of trades  
 
 Example equity curve output:
-![Equity Curve](equity.png)
-
+(See equity.png in the folder)
 ---
 
 
