@@ -54,7 +54,7 @@ Example equity curve output:
 
 ![Equity Curve](equity.png)
 
-
+---
 
 
 
