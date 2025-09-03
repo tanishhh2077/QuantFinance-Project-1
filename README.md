@@ -5,6 +5,21 @@ It fetches historical stock data via Yahoo Finance, executes trades with **next-
 
 ---
 
+
+
+## 📊 Example Output
+
+Running the backtest on **SPY (S&P 500 ETF)** produces:
+
+- `equity.png` → Equity curve of strategy vs Buy & Hold  
+- `trades.db` → SQLite database log of trades  
+
+Example equity curve output:
+
+![Equity Curve](equity.png)
+
+---
+
 ## 🔧 Features
 - 📊 Historical stock data retrieval with **yFinance**
 - 📉 Implements **short-term vs long-term SMA crossover** strategy
@@ -43,20 +58,6 @@ python backtest.py
 
 
 
----
-
-# 📊 Example Output
-
-Running the backtest on **SPY (S&P 500 ETF)** produces:
-
-- `equity.png` → Equity curve of strategy vs Buy & Hold  
-- `trades.db` → SQLite database log of trades  
-
-Example equity curve output:
-
-![Equity Curve](equity.png)
-
----
 
 
 
